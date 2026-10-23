@@ -1,28 +1,59 @@
-<h1 align="center">Hi 👋, I'm Anish Dalal</h1>
-<h3 align="center">A passionate Electronics Engineer and a Developer from India</h3>
+<!-- ===================== HERO SECTION ===================== -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theelectronicsguy&label=Profile%20views&color=0e75b6&style=flat" alt="theelectronicsguy" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theelectronicsguy" alt="theelectronicsguy" /></a> </p>
+# 👋 Hey, I'm Anish Dalal
 
-- 🌱 I’m currently learning **Electronics and Development**
+### ⚡ Electronics Engineer · Developer · Tech Enthusiast
 
-- 💬 Ask me about **Engineering, Coding and Games**
+*Bridging the gap between hardware and software, one project at a time.*
 
-- 📫 How to reach me **anishdalal00007@gmail.com**
-
-- ⚡ Fun fact **I do Stand-up comedy**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/aniiiiish__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aniiiiish__" height="30" width="40" /></a>
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Electronics+%26+Embedded+Systems;Software+Development+%26+Coding;Arduino+%7C+C%2B%2B+%7C+JavaScript;Building+Things+That+Actually+Work;Sometimes+I+Write+Jokes%2C+Too+%F0%9F%8E%A4" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=theelectronicsguy&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/theelectronicsguy?label=FOLLOWERS&style=for-the-badge&color=blue" alt="GitHub followers" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theelectronicsguy&show_icons=true&locale=en&layout=compact" alt="theelectronicsguy" /></p>
+<p>
+  <a href="https://github.com/theelectronicsguy">
+    <img src="https://img.shields.io/badge/GitHub-theelectronicsguy-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="mailto:anishdalal00007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/aniiiiish__">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theelectronicsguy&show_icons=true&locale=en" alt="theelectronicsguy" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theelectronicsguy&" alt="theelectronicsguy" /></p>
+---
+
+<!-- ===================== ABOUT ME ===================== -->
+
+## 🧑‍💻 About Me
+
+```yaml
+name: Anish Dalal
+location: India
+role: Electronics Engineer & Developer
+interests:
+  - Electronics and Embedded Systems
+  - Software Development
+  - Arduino and Microcontrollers
+  - Android Development
+  - Game Development with Unity
+  - Gaming and Stand-up Comedy
+currently_learning: Electronics & Development
+fun_fact: "I do stand-up comedy 🎤"
+```
+
+- 🔭 Exploring the intersection of electronics and software.
+- 🌱 Constantly learning, experimenting, and building.
+- 💡 Interested in turning ideas into practical projects.
+- 🎮 Happy to talk about engineering, coding, and games.
+- 🎤 Fun fact: I do stand-up comedy — debugging code
