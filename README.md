@@ -1,95 +1,105 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7C3AED,100:FF4D8D&height=220&section=header&text=ANISH%20DALAL&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Electronics%20Engineer%20%7C%20Developer%20%7C%20Tech%20Enthusiast&descSize=15&descAlignY=60" width="100%" alt="Anish Dalal - Electronics Engineer and Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:5A0000,100:FF2020&height=220&section=header&text=ANISH%20DALAL&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=ELECTRONICS%20%7C%20DEVELOPMENT%20%7C%20INNOVATION&descSize=14&descAlignY=60" width="100%" alt="Anish Dalal - Red and black profile banner" />
 
-<p>
-  <img src="https://img.shields.io/badge/Electronics-00D9FF?style=for-the-badge" alt="Electronics" />
-  <img src="https://img.shields.io/badge/Embedded_Systems-7C3AED?style=for-the-badge" alt="Embedded Systems" />
-  <img src="https://img.shields.io/badge/Software_Development-FF4D8D?style=for-the-badge" alt="Software Development" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=900&color=FF3333&center=true&vCenter=true&width=650&height=50&lines=Electronics+%26+Embedded+Systems;Arduino+%7C+C%2B%2B+%7C+Microcontrollers;Software+Development+%26+Problem+Solving;Turning+Ideas+Into+Reality" alt="Animated developer introduction" />
 
-<p>
-  <a href="https://github.com/theelectronicsguy">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
-  <a href="mailto:anishdalal00007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://instagram.com/aniiiiish__">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+<br/>
+
+<a href="https://github.com/theelectronicsguy">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF3333" alt="GitHub"/>
+</a>
+<a href="mailto:anishdalal00007@gmail.com">
+<img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://instagram.com/aniiiiish__">
+<img src="https://img.shields.io/badge/Instagram-C90032?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
 
 </div>
 
-## 👨‍💻 About Me
+---
 
-- 🔌 Electronics enthusiast interested in hardware and embedded systems.
-- 💻 Exploring software development, programming, and problem-solving.
-- 🤖 Building projects with Arduino, C++, and microcontrollers.
+## 🔴 About Me
+
+- 🔌 Electronics enthusiast passionate about hardware and embedded systems.
+- 💻 Interested in software development, coding, and problem-solving.
+- 🤖 Exploring Arduino, C++, and microcontroller-based projects.
 - 📱 Interested in Android development and Unity game development.
-- 🚀 Always learning, experimenting, and creating new projects.
-- ☕ Fun fact: I debug code and occasionally tell jokes!
+- 🚀 Always learning, experimenting, and building new things.
+- ☕ Debugging code until everything works!
 
-## 🛠️ Tech Stack
+## ⚫ Tech Stack
 
-### Programming Languages
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,cs,js&theme=dark" alt="C, C++, Java, Python, C Sharp and JavaScript" />
-
-</div>
-
-### Hardware and Development Tools
+### 💻 Programming Languages
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=arduino,androidstudio,unity,git,github,vscode&theme=dark" alt="Arduino, Android Studio, Unity, Git, GitHub and VS Code" />
-
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,cs,js&theme=dark" alt="C, C++, Java, Python, C Sharp and JavaScript"/>
 </div>
+
+### 🔧 Hardware & Development Tools
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=arduino,androidstudio,unity,git,github,vscode&theme=dark" alt="Arduino, Android Studio, Unity, Git, GitHub and VS Code"/>
+</div>
+
+---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
 <a href="https://github.com/theelectronicsguy">
-  <img src="https://github-readme-stats.vercel.app/api?username=theelectronicsguy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF4D8D&text_color=FFFFFF&ring_color=7C3AED" width="49%" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=theelectronicsguy&show_icons=true&hide_border=true&bg_color=0D0000&title_color=FF3333&icon_color=FF0000&text_color=FFFFFF&ring_color=990000" height="180" alt="GitHub statistics"/>
 </a>
-<a href="https://github.com/theelectronicsguy">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theelectronicsguy&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" width="49%" alt="Most used programming languages" />
-</a>
-
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
 
 <a href="https://github.com/theelectronicsguy">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theelectronicsguy&bg_color=0D1117&color=00D9FF&line=7C3AED&point=FF4D8D&area=true&hide_border=true&custom_title=Anish%27s%20Contribution%20Graph" width="100%" alt="GitHub contribution activity" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theelectronicsguy&layout=compact&hide_border=true&bg_color=0D0000&title_color=FF3333&text_color=FFFFFF&langs_count=6" height="180" alt="Most-used programming languages"/>
 </a>
 
 </div>
 
-## 🐍 Contribution Snake
+---
+
+## 🔥 Explore My GitHub
 
 <div align="center">
 
-![GitHub contribution snake](https://raw.githubusercontent.com/theelectronicsguy/theelectronicsguy/output/github-snake.svg)
+<a href="https://github.com/theelectronicsguy?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-CC0000?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
+
+<a href="https://github.com/theelectronicsguy?tab=stars">
+<img src="https://img.shields.io/badge/STARRED-PROJECTS-1A1A1A?style=for-the-badge&logo=github&logoColor=FF3333" alt="Starred projects"/>
+</a>
+
+<a href="https://github.com/theelectronicsguy?tab=overview">
+<img src="https://img.shields.io/badge/CONTRIBUTIONS-RED%20THEME-8B0000?style=for-the-badge&logo=github&logoColor=white" alt="View contributions"/>
+</a>
 
 </div>
 
-## 🤝 Let's Connect
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
 
-Have an interesting project or idea? Let's connect and build something awesome!
+Have an interesting idea or project? Let's build something awesome!
 
-[GitHub](https://github.com/theelectronicsguy) • [Email](mailto:anishdalal00007@gmail.com) • [Instagram](https://instagram.com/aniiiiish__)
+<a href="https://github.com/theelectronicsguy">
+<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FF3333" alt="GitHub"/>
+</a>
+<a href="mailto:anishdalal00007@gmail.com">
+<img src="https://img.shields.io/badge/Email-8B0000?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://instagram.com/aniiiiish__">
+<img src="https://img.shields.io/badge/Instagram-C90032?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
 
-**"Building the future, one line of code and one circuit at a time."** ✨
+<br/><br/>
+
+**⚡ Building the future, one line of code and one circuit at a time. ⚡**
 
 </div>
-
